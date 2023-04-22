@@ -36,11 +36,11 @@
     ]
   },
   "dependencies": {
-    "@keystone-next/admin-ui": "^7.0.1",
-    "@keystone-next/auth": "^10.0.1",
-    "@keystone-next/cloudinary": "^2.0.7",
-    "@keystone-next/fields": "^4.0.3",
-    "@keystone-next/keystone": "^9.0.1",
+    "@keystone-next/admin-ui": "^15.0.0",
+    "@keystone-next/auth": "^37.0.0",
+    "@keystone-next/cloudinary": "^12.0.0",
+    "@keystone-next/fields": "^15.0.0",
+    "@keystone-next/keystone": "^29.0.0",
     "@keystone-next/types": "^10.0.0",
     "@keystonejs/server-side-graphql-client": "^1.1.2",
     "@types/nodemailer": "^6.4.0",
